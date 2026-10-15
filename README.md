@@ -5,7 +5,7 @@
 2. Instalasi Wazuh Agent pada satu perangkat lain.
 3. Memastikan agent berhasil terhubung ke manager dengan mengecek apakah default events/logs dari agent sudah masuk dan terlihat di dashboard Wazuh.
 4. Membuat custom rules/custom alert pada agent
-5. Dokumentasi bagaimana kalian menyelesaikan instalasi manager dan agent, flow/diagram visualisasi deployment, validasi koneksi agent-manager, penjelasan masing-masing custom rule yang ditambahkan, dan screenshot hasil dari dashboard/alert yang menunjukkan rules tersebut aktif
+5. Dokumentasi bagaimana menyelesaikan instalasi manager dan agent, flow/diagram visualisasi deployment, validasi koneksi agent-manager, penjelasan masing-masing custom rule yang ditambahkan, dan screenshot hasil dari dashboard/alert yang menunjukkan rules tersebut aktif
 
 ## Langkah Instalasi
 1. Buat VPS menggunakan Azure sesuai requirement spec dari Wazuh
