@@ -1,15 +1,11 @@
-# Laporan Penugasan Modul 2 Open Recruitment NETICS 2026
+# Wazuh Custom Rule
 
-| Nama           | NRP        |
-| ---            | ---        |
-| Hazza Danta Hermandanu               | 5025241117           |
-
-## Deskripsi Tugas
-1. Lakukan instalasi Wazuh Manager pada sebuah VM/VPS berbasis Linux.
-2. Lakukan instalasi Wazuh Agent pada satu perangkat lain.
-3. Pastikan agent berhasil terhubung ke manager dengan mengecek apakah default events/logs dari agent sudah masuk dan terlihat di dashboard Wazuh.
-4. Buat/mencari dan implementasikan minimal 5 custom rules/custom alert pada agent kalian. Jenis rules bebas dan dapat menyesuaikan kreativitas serta konteks keamanan masing-masing.
-5. Buat sebuah dokumentasi penjelasan bagaimana kalian menyelesaikan penugasan modul 2 ini termasuk Langkah instalasi manager dan agent, flow/diagram visualisasi deployment, validasi koneksi agent-manager, penjelasan masing-masing custom rule yang ditambahkan, dan screenshot hasil dari dashboard/alert yang menunjukkan rules tersebut aktif pada Github repository
+## Objective
+1. Instalasi Wazuh Manager pada sebuah VM/VPS berbasis Linux.
+2. Instalasi Wazuh Agent pada satu perangkat lain.
+3. Memastikan agent berhasil terhubung ke manager dengan mengecek apakah default events/logs dari agent sudah masuk dan terlihat di dashboard Wazuh.
+4. Membuat custom rules/custom alert pada agent
+5. Dokumentasi bagaimana kalian menyelesaikan instalasi manager dan agent, flow/diagram visualisasi deployment, validasi koneksi agent-manager, penjelasan masing-masing custom rule yang ditambahkan, dan screenshot hasil dari dashboard/alert yang menunjukkan rules tersebut aktif
 
 ## Langkah Instalasi
 1. Buat VPS menggunakan Azure sesuai requirement spec dari Wazuh
